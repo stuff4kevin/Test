@@ -1,4 +1,4 @@
-Test
+Tests
 ====
 Test once
 test twice
